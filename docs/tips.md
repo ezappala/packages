@@ -59,9 +59,9 @@ any file in the template directory.
 
 __2. Documentation files (commit & exclude)__\
 Files that are necessary for the package to be displayed correctly on Typst
-Universe. This includes the README, and any files that are linked from there
-(manuals, examples, illustrations, etc.). These files can easily be accessed
-by opening the package README.
+Universe. This includes all files that are linked from the README: manuals,
+examples, illustrations, etc. These files can easily be accessed by opening the
+package README.
 
 __3. Other files (don't commit)__\
 This generally includes test files, build scripts, but also examples or manuals
